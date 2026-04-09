@@ -1,0 +1,85 @@
+/* Global Styles - MediCare Hospital Frontend */
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background-color: #f8f9fa;
+}
+
+/* Smooth transitions */
+.card {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1) !important;
+}
+
+/* Navbar active link */
+.navbar .nav-link.active {
+  font-weight: 600;
+  background: rgba(255,255,255,0.15);
+  border-radius: 6px;
+}
+
+/* Table row hover */
+.table-hover tbody tr:hover {
+  background-color: rgba(13, 110, 253, 0.04);
+}
+
+/* Rounded cards */
+.card {
+  border-radius: 12px !important;
+}
+
+/* Badge pill look */
+.badge {
+  border-radius: 20px;
+}
+
+/* Input focus */
+.form-control:focus,
+.form-select:focus {
+  border-color: #1a73e8;
+  box-shadow: 0 0 0 0.2rem rgba(26, 115, 232, 0.15);
+}
+
+/* Button styles */
+.btn {
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+/* Spinner center utility */
+.spinner-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+}
+
+/* Modal backdrop */
+.modal.show.d-block {
+  z-index: 1055;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.container {
+  animation: fadeIn 0.25s ease;
+}
+
+/* Stat card hover lift */
+.col-6 .card:hover,
+.col-md-3 .card:hover,
+.col-md-4 .card:hover {
+  transform: translateY(-2px);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: #f1f1f1; }
+::-webkit-scrollbar-thumb { background: #c1c1c1; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #a8a8a8; }

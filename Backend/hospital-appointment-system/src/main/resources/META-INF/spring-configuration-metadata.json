@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "jwt",
+      "type": "com.example.hospitalappointment.config.JwtProperties",
+      "sourceType": "com.example.hospitalappointment.config.JwtProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.secret",
+      "type": "java.lang.String",
+      "description": "Secret key for JWT token generation and validation",
+      "defaultValue": "mysecretkeymysecretkeymysecretkey12345"
+    },
+    {
+      "name": "jwt.expiration",
+      "type": "java.lang.Long",
+      "description": "JWT token expiration time in milliseconds",
+      "defaultValue": 3600000
+    }
+  ]
+}
