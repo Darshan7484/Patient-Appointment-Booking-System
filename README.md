@@ -174,7 +174,14 @@ npm start
 
 ## 📸 Screenshots
 
-> Add screenshots of the Patient Dashboard, Doctor Schedule view, and Admin Panel here.
+> <img width="922" height="871" alt="image" src="https://github.com/user-attachments/assets/dbc75812-8d73-42b3-8bd7-c86fbfa2745c" />
+> <img width="922" height="871" alt="image" src="https://github.com/user-attachments/assets/592f7d63-b53a-4ef3-8e79-5a8a8c25a095" />
+<img width="922" height="871" alt="image" src="https://github.com/user-attachments/assets/c258fa37-75c9-462d-b7fa-639162ef2cbc" />
+<img width="1839" height="869" alt="image" src="https://github.com/user-attachments/assets/853ebed9-a09f-46bc-b35f-5b42a1a6c01b" />
+
+
+
+
 
 ---
 
