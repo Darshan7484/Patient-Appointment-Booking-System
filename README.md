@@ -173,11 +173,10 @@ npm start
 ---
 
 ## 📸 Screenshots
+<img width="563" height="380" alt="Screenshot 2026-03-23 120516" src="https://github.com/user-attachments/assets/44b49a52-b82b-4a48-8d03-c989b9f8068f" />
 
-> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dbc75812-8d73-42b3-8bd7-c86fbfa2745c" />
-> <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/592f7d63-b53a-4ef3-8e79-5a8a8c25a095" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c258fa37-75c9-462d-b7fa-639162ef2cbc" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/853ebed9-a09f-46bc-b35f-5b42a1a6c01b" />
+
+
 
 
 
